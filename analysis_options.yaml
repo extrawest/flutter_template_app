@@ -1,0 +1,11 @@
+include: package:pedantic/analysis_options.yaml
+
+linter:
+  rules:
+    join_return_with_assignment: false
+
+analyzer:
+  errors:
+    missing_required_param: error
+    parameter_assignments: error
+    missing_return: error
