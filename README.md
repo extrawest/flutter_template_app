@@ -1,4 +1,4 @@
-# Flutter Template App
+# Extrawest Flutter Template App
 
 Project Template for Flutter Projects.
 
