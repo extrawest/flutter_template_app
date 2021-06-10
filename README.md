@@ -7,11 +7,11 @@ In order to use this template in your project, do the following step-by-step:
 
 **1. Clone this repo to your folder:**
 
-``
+`git clone https://github.com/extrawest/flutter_template_app.git`
 
 **2. Change directory to the previously cloned folder**
 
-``
+`cd flutter_template_app/`
 
 **3. Remove an existing .git folder**
 
@@ -23,7 +23,7 @@ In order to use this template in your project, do the following step-by-step:
 
 **5. Set remote url to your empty repository**
 
-``
+`git remote set-url origin https://github.com/extrawest/flutter_template_app.git`
 
 **6. Add all files to git**
 
