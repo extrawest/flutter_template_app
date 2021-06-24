@@ -1,5 +1,11 @@
 # Extrawest Flutter Template App
 
+![Maintaner](https://img.shields.io/badge/maintainer-extrawest.com-blue)
+![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/extrawest/flutter_web_app/graphs/commit-activity)
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
+![GitHub release](https://img.shields.io/github/release/Naereen/StrapDown.js.svg)
+
 Project Template for Flutter Projects.
 
 ## 1. Getting started
